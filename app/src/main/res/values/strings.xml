@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Prototype1</string>
+    <string name="action_clear">Clear all SharedPreferences</string>
+
+    <string name="first_page_task_input_field">輸入今日任務</string>
+    <string name="first_page_check_button">開始</string>
+
+    <string name="title_activity_second_page">SecondPageActivity</string>
+    <string name="second_page_timer_text_view">00:00:00</string>
+    <string name="second_page_task_text_view">今日任務</string>
+    <string name="second_page_finish_button">完成了</string>
+
+    <string name="title_activity_third_page">ThirdPageActivity</string>
+    <string name="third_page_message_text_view_1">距離下次設定任務還有：</string>
+    <string name="third_page_message_text_view_3">恭喜你完成今日任務，\n好棒棒喔！</string>
+</resources>
